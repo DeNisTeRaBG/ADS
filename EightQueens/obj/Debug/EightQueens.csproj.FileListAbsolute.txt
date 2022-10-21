@@ -1,0 +1,10 @@
+F:\New folder\EightQueens\bin\Debug\EightQueens.exe.config
+F:\New folder\EightQueens\bin\Debug\EightQueens.exe
+F:\New folder\EightQueens\bin\Debug\EightQueens.pdb
+F:\New folder\EightQueens\obj\Debug\EightQueens.csproj.AssemblyReference.cache
+F:\New folder\EightQueens\obj\Debug\EightQueens.Form1.resources
+F:\New folder\EightQueens\obj\Debug\EightQueens.Properties.Resources.resources
+F:\New folder\EightQueens\obj\Debug\EightQueens.csproj.GenerateResource.cache
+F:\New folder\EightQueens\obj\Debug\EightQueens.csproj.CoreCompileInputs.cache
+F:\New folder\EightQueens\obj\Debug\EightQueens.exe
+F:\New folder\EightQueens\obj\Debug\EightQueens.pdb
